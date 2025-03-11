@@ -1,6 +1,8 @@
 Introduction to JAX
 ===================
-This is an introductory repo for JAX
+This is an introductory repo for JAX (https://docs.jax.dev/en/latest/index.html)
+
+Getting Started with JAX: https://docs.jax.dev/en/latest/beginner_guide.html#beginner-guide
 
 Make new conda environment
 -----------------------------
