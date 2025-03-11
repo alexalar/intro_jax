@@ -47,4 +47,4 @@ Follow: https://developer.apple.com/metal/jax/
 Install remaining packages
 -----------------------------
 
-    $ conda install matplotlib numpy scipy astropy h5py
+    $ conda install matplotlib numpy scipy astropy h5py jupyter
