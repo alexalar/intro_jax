@@ -1,3 +1,6 @@
+$ cd ~/Documents/source/
+$ git clone git@github.com:alexalar/intro_jax.git
+
 Introduction to JAX
 ===================
 This is an introductory repo for JAX (https://docs.jax.dev/en/latest/index.html)
