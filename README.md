@@ -1,5 +1,5 @@
-$ cd ~/Documents/source/
-$ git clone git@github.com:alexalar/intro_jax.git
+    $ cd ~/Documents/source/
+    $ git clone git@github.com:alexalar/intro_jax.git
 
 Introduction to JAX
 ===================
