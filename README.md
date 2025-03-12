@@ -44,7 +44,7 @@ Using JAX requires installing two packages: `jax`, which is pure Python and cros
 
 Follow: https://developer.apple.com/metal/jax/
 
-    $ pip install -U "jax[cuda12]"
+    $ pip install jax-metal
 
 
 Install remaining packages
