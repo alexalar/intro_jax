@@ -32,7 +32,7 @@ Using JAX requires installing two packages: `jax`, which is pure Python and cros
 
 -- CPU-only (Linux/macOS/Windows):
 
-    $ pip install -U jax
+    $ conda install jax
 
 
 -- GPU (NVIDIA, CUDA 12):
@@ -50,4 +50,4 @@ Follow: https://developer.apple.com/metal/jax/
 Install remaining packages
 -----------------------------
 
-    $ conda install matplotlib numpy scipy astropy h5py jupyter
+    $ conda install matplotlib numpy scipy astropy h5py jupyter nb_conda_kernels
